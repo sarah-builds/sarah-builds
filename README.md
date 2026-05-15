@@ -1,4 +1,4 @@
-# Hi, I'm Sarah Ansari 
+# Hi I'm Sarah Ansari 
 
 B.Tech CSE Student | Java & DSA | Full Stack | Exploring AI/ML  
 
