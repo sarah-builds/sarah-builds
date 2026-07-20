@@ -54,8 +54,13 @@ An assistant that helps seniors manage medicines, schedules, memories, and famil
 
 ### Connect With Me
 
-<p align="left"> <a href="https://www.linkedin.com/in/sarah-ansari-3a1b29399/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> <a href="mailto:ansarisarah463@gmail.com?subject=Hello%20Sarah">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a></p>
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/sarah-ansari-3a1b29399/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:ansarisarah463@gmail.com?subject=Hello%20Sarah">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
