@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a computer science student focused on full stack web development. I mainly work with React, TypeScript and Node.js, backed by PostgreSQL, MongoDB and Supabase, and I care about code that is readable, well structured and easy to maintain.
+I'm a Computer Engineering Student focused on full stack development. I mainly work with React, TypeScript and Node.js, backed by PostgreSQL, MongoDB and Supabase, and I care about code that is readable, well structured and easy to maintain.
 
 Alongside my projects, I practice data structures and algorithms in Java on LeetCode to keep my problem-solving sharp.
 
