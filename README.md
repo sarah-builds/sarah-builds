@@ -30,7 +30,7 @@ Alongside my projects, I practice data structures and algorithms in Java on Leet
 
 ### Memora AI
 
-Assistant that helps seniors manage medicines, memories, schedules and family connections.
+An elderly care companion that helps seniors manage medicines, daily schedules, personal memories, and emergency contacts through voice assistance, reminders, and a simple accessible interface.
 
 `React` `TypeScript` `Tailwind` `Supabase` `PostgreSQL`
 
@@ -45,7 +45,7 @@ Assistant that helps seniors manage medicines, memories, schedules and family co
 
 ### Clinic OCR
 
-Tool that digitizes clinic documents by extracting text from scanned records.
+A document digitization tool that uses OCR and AI to extract, process, and organize information from scanned clinical records, making paper-based documents easier to access and manage.
 
 `Next.js` `TypeScript` `Tailwind` `Tesseract OCR`
 
