@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:52525B&height=190&section=header&text=Sarah%20Ansari&fontSize=44&fontColor=F4F4F5&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer&descSize=16&descColor=D4D4D8&descAlignY=62" alt="Sarah Ansari"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:52525B&height=190&section=header&text=Sarah%20Ansari&fontSize=44&fontColor=F4F4F5&fontAlign=50&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descSize=16&descColor=D4D4D8&descAlignY=62" alt="Sarah Ansari"/>
 
 <!-- Social Links -->
 
